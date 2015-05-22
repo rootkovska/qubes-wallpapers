@@ -20,7 +20,9 @@ Author information for each of the photo has been embedded in the corresponding
 metadata using exiftool, and they could be extracted using the following
 command:
 
+```
 exiftool -Author <file.jpg>
+```
 
 License
 --------
